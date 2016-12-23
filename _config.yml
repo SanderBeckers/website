@@ -26,10 +26,10 @@ description:         >
   You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        [Articles, Talks, CV]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
+image:               /website/public/img/nap.jpg
 color:               '#A85641'
 
 # Fonts
@@ -39,14 +39,15 @@ load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 
 # About yourself
 author:
-  name:              'Florian Klampfer'
+  name:              'Sander Beckers'
 
   # This photo will be used in the about section
-  photo:             http://qwtel.com/public/img/flo.jpg
-  photo2x:           http://qwtel.com/public/img/flo@2x.jpg
+  #SB
+  photo:             https://sanderbeckers.github.io/website/sander/profile_picture.jpg
+  #photo2x:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  #SB:
+  #SB
   about:             |
     Welcome to my personal webpage. Testing out how this works. For example, here's a link to my
     [ResearchGate profile](https://www.researchgate.net/profile/Sander_Beckers).
