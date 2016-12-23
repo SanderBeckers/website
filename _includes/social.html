@@ -7,6 +7,11 @@
     {% assign url = "https://facebook.com/" | append: username %}
     {% include social-list-item.html platform=platform url=url %}
   {% endif %}
+  
+  {% if platform == "researchgate" %}
+    {% assign url = "https://researchgate.net/profile/" | append: username %}
+    {% include social-list-item.html platform=platform url=url %}
+  {% endif %}
 
   {% if platform == "instagram" %}
     {% assign url = "https://instagram.com/" | append: username %}
