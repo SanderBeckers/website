@@ -40,7 +40,7 @@ author:
   name:              'Sander Beckers'
 
   # This photo will be used in the about section
-  photo:             https://sanderbeckers.github.io/website/sander/profile_picture.jpg
+  photo:             website/sander/profile_picture.jpg
   #photo2x:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -88,8 +88,8 @@ author:
     # stumbleupon:     _username_
     # paypal:          _username_
 
-# Remove to disable Google Anaylics
-google_analytics_id: 'UA-84025722-2'
+# Remove to disable Google Analytics
+#google_analytics_id: 'UA-84025722-2'
 
 # Setting a disqus subdomain will enable the comment section
 # disqus:            <username>
