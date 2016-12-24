@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://sanderbeckers.github.io
+url:                 http://sanderbeckers.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
