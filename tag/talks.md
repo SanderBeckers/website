@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: Talks
+tag: talks
 permalink: /tag/talks/
 ---

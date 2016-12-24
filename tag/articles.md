@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: Articles
+tag: articles
 permalink: /tag/articles/
 ---

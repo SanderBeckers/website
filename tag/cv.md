@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: CV
+tag: cv
 permalink: /tag/cv/
 ---
