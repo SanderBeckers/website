@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sander Beckers</title>
+ <link href="http://localhost:4000/website/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/website/"/>
+ <updated>2016-12-23T19:59:16-05:00</updated>
+ <id>http://localhost:4000/website</id>
+ <author>
+   <name>Sander Beckers</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Talks</title>
+   <link href="http://localhost:4000/website/2016/12/23/talks/"/>
+   <updated>2016-12-23T00:00:00-05:00</updated>
+   <id>http://localhost:4000/website/2016/12/23/talks</id>
+   <content type="html">&lt;h2 id=&quot;conferences&quot;&gt;Conferences&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Talk 1&lt;/li&gt;
+  &lt;li&gt;Talk 2&lt;/li&gt;
+  &lt;li&gt;Talk 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CV</title>
+   <link href="http://localhost:4000/website/2016/12/23/cv/"/>
+   <updated>2016-12-23T00:00:00-05:00</updated>
+   <id>http://localhost:4000/website/2016/12/23/cv</id>
+   <content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here I will display my CV in pdf.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Articles</title>
+   <link href="http://localhost:4000/website/2016/12/23/articles/"/>
+   <updated>2016-12-23T00:00:00-05:00</updated>
+   <id>http://localhost:4000/website/2016/12/23/articles</id>
+   <content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here are my articles
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;published&quot;&gt;Published&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Article 1&lt;/li&gt;
+  &lt;li&gt;Article 2&lt;/li&gt;
+  &lt;li&gt;Article 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unpublished&quot;&gt;Unpublished&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Article 1&lt;/li&gt;
+  &lt;li&gt;Article 2&lt;/li&gt;
+  &lt;li&gt;Article 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;work-in-progress&quot;&gt;Work in Progress&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Article 1&lt;/li&gt;
+  &lt;li&gt;Article 2&lt;/li&gt;
+  &lt;li&gt;Article 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
