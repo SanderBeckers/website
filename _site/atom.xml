@@ -4,7 +4,7 @@
  <title>Sander Beckers</title>
  <link href="http://localhost:4000/website/atom.xml" rel="self"/>
  <link href="http://localhost:4000/website/"/>
- <updated>2016-12-24T13:41:15-05:00</updated>
+ <updated>2016-12-24T15:31:33-05:00</updated>
  <id>http://localhost:4000/website</id>
  <author>
    <name>Sander Beckers</name>
@@ -56,7 +56,7 @@
 &lt;h2 id=&quot;published&quot;&gt;Published&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Article 1&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/SanderBeckers/website/articles/researchgate.pdf&quot;&gt;Article 1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Article 2&lt;/li&gt;
   &lt;li&gt;Article 3&lt;/li&gt;
 &lt;/ul&gt;
