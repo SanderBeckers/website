@@ -16,7 +16,7 @@ articles:
   image: /website/public/img/jekyll.jpg
   color: '#949667'
   description: >
-    Here go my articles.
+
 
 
 talks:
@@ -24,7 +24,7 @@ talks:
   image: /website/public/img/hyde.jpg
   color: '#949667'
   description: >
-    These will be my talks.
+
 
 
 cv:
@@ -32,5 +32,5 @@ cv:
   image: /website/public/img/hyde.jpg
   color: '#949667'
   description: >
-    This will be my CV.
+
 

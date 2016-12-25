@@ -4,7 +4,7 @@
  <title>Sander Beckers</title>
  <link href="http://localhost:4000/website/atom.xml" rel="self"/>
  <link href="http://localhost:4000/website/"/>
- <updated>2016-12-24T15:31:59-05:00</updated>
+ <updated>2016-12-25T00:38:24-05:00</updated>
  <id>http://localhost:4000/website</id>
  <author>
    <name>Sander Beckers</name>
@@ -13,71 +13,261 @@
 
  
  <entry>
-   <title>Talks</title>
-   <link href="http://localhost:4000/website/2016/12/23/talks/"/>
-   <updated>2016-12-23T00:00:00-05:00</updated>
-   <id>http://localhost:4000/website/2016/12/23/talks</id>
-   <content type="html">&lt;h2 id=&quot;conferences&quot;&gt;Conferences&lt;/h2&gt;
+   <title>Articles</title>
+   <link href="http://localhost:4000/website/0011/01/01/articles/"/>
+   <updated>0011-01-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/website/0011/01/01/articles</id>
+   <content type="html">&lt;h3 id=&quot;published&quot;&gt;Published&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Talk 1&lt;/li&gt;
-  &lt;li&gt;Talk 2&lt;/li&gt;
-  &lt;li&gt;Talk 3&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/synthese principled.pdf&quot;&gt;Synthese paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/Stairs_officialversion.pdf&quot;&gt;Stairs paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/ijar_cplogic.pdf&quot;&gt;IJAR paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/aiethicssociety_aaai.pdf&quot;&gt;AAAI paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
+&lt;h3 id=&quot;unpublished&quot;&gt;Unpublished&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/ergo_transitivity.pdf&quot;&gt;Ergo paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/phd_official.pdf&quot;&gt;PhD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;work-in-progress&quot;&gt;Work in Progress&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/hardestlogicpuzzle.pdf&quot;&gt;Logic puzzle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Talks</title>
+   <link href="http://localhost:4000/website/0010/01/01/talks/"/>
+   <updated>0010-01-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/website/0010/01/01/talks</id>
+   <content type="html">&lt;h3 id=&quot;conferences&quot;&gt;Conferences&lt;/h3&gt;
+
+&lt;p&gt;2016  ‘The Transitivity and Asymmetry of Actual Causation’, Philosophy of Science in a Forest, Doorn, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2015  ‘A Principled Approach to Defining Actual Causation’, Conference of Logic, Methodology and Philosophy of Science, Helsinki, Finland&lt;/p&gt;
+
+&lt;p&gt;2015  ‘Combining Probabilistic, Causal, and Normative Reasoning using CP-logic’, AAAI Spring Symposium: Commonsense Reasoning, Stanford University&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Dual Inheritance Theory as an Integration of Biology and the Humanities’, Reduction and Emergence in the Sciences conference, Munich Center for Mathematical Philosophy&lt;/p&gt;
+
+&lt;p&gt;2013  ‘A Pragmatic Approach to Causality’, OZSW conference, University of Rotterdam&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation in Cases of Preemption: the CP-logic Approach’, Graduate Conference in Theoretical Philosophy, University of Groningen, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Actual Causation in Cases of Preemption: the CP-logic Approach’, Great Plains Graduate Conference in Philosophy, Kansas University&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Counterfactual Dependency and Actual Causation in CP-logic and Structural Models: a Comparison’, STAIRS conference, Montpellier, France&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Parallel hybrid SAT solving using OpenCL’, BNAIC, Maastricht University, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2011  ‘Parallel SAT-solving with OpenCL’, IADIS, Rio de Janeiro, Brazil&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;invited-talks-and-colloquia&quot;&gt;Invited Talks and Colloquia&lt;/h3&gt;
+
+&lt;p&gt;2015  ‘A Principled Approach to Defining Actual Causation’, Invited talk, Tilburg Center for Logic, Ethics, and Philosophy of Science, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2015  ‘The Problem of Actual Causation’, Epistemology Reading Group, Department of Linguistics and Philosophy, MIT&lt;/p&gt;
+
+&lt;p&gt;2014  ‘Actual Causation using CP-logic’, Declarative Languages and AI seminar, University of Leuven, Belgium&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation using CP-logic’, colloquium, Munich Center for Mathematical Philosophy&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation: the CP-logic Approach’, Invited talk, INRIA, Grenoble, France&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation in Cases of Preemption: the CP-logic Approach’, Center for Logic and Analytic Philosophy colloquium, University of Leuven, Belgium&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Parallel hybrid SAT solving using OpenCL’, Declarative Languages and AI seminar, University of Leuven, Belgium&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>CV</title>
-   <link href="http://localhost:4000/website/2016/12/23/cv/"/>
-   <updated>2016-12-23T00:00:00-05:00</updated>
-   <id>http://localhost:4000/website/2016/12/23/cv</id>
-   <content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here I will display my CV in pdf.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+   <link href="http://localhost:4000/website/0001/01/01/cv/"/>
+   <updated>0001-01-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/website/0001/01/01/cv</id>
+   <content type="html">&lt;h3 id=&quot;sander-beckers&quot;&gt;Sander Beckers&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Curriculum Vitae&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Articles</title>
-   <link href="http://localhost:4000/website/2016/12/23/articles/"/>
-   <updated>2016-12-23T00:00:00-05:00</updated>
-   <id>http://localhost:4000/website/2016/12/23/articles</id>
-   <content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here are my articles
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Phone:  +1 (607) 319-6246&lt;br /&gt;
+E-mail: Sander.Beckers@cornell.edu&lt;/p&gt;
 
-&lt;h2 id=&quot;published&quot;&gt;Published&lt;/h2&gt;
+&lt;p&gt;Department of Computer Science 		         &lt;br /&gt;
+Cornell University 			   &lt;br /&gt;
+343 Campus Road   				
+Ithaca, NY 14853&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/SanderBeckers/website/articles/researchgate.pdf&quot;&gt;Article 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Article 2&lt;/li&gt;
-  &lt;li&gt;Article 3&lt;/li&gt;
-&lt;/ul&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;unpublished&quot;&gt;Unpublished&lt;/h2&gt;
+&lt;h3 id=&quot;employment&quot;&gt;Employment&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Article 1&lt;/li&gt;
-  &lt;li&gt;Article 2&lt;/li&gt;
-  &lt;li&gt;Article 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;work-in-progress&quot;&gt;Work in Progress&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Article 1&lt;/li&gt;
-  &lt;li&gt;Article 2&lt;/li&gt;
-  &lt;li&gt;Article 3&lt;/li&gt;
+  &lt;li&gt;2016-2017
+    &lt;ul&gt;
+      &lt;li&gt;Visiting B.A.E.F. Fellow&lt;br /&gt;
+  Department of Computer Science, Cornell University&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2012-2016
+    &lt;ul&gt;
+      &lt;li&gt;Ph.D. in Computer Science, October 2016&lt;br /&gt;
+  KULeuven - University of Leuven, Belgium&lt;br /&gt;
+  &lt;em&gt;Dissertation: Actual Causation: Definitions and Principles&lt;br /&gt;
+  Supervisors: Hendrik Blockeel and Joost Vennekens&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2013 Fall
+    &lt;ul&gt;
+      &lt;li&gt;Visiting Researcher at Munich Center for Mathematical Philosophy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2010-2011
+    &lt;ul&gt;
+      &lt;li&gt;Researcher at University of Leuven, EAVISE research group       			    &lt;em&gt;Project: S.O.S. OpenCL: Multicore Cooking&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2008-2009
+    &lt;ul&gt;
+      &lt;li&gt;(part-time) internship as actuary&lt;br /&gt;
+  Fortis Insurance Belgium, Employee Benefits&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2008
+    &lt;ul&gt;
+      &lt;li&gt;(part-time) internship as actuary&lt;br /&gt;
+  Aon Benfield Belgium&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
+&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2011: Master in Mathematics, University of Leuven&lt;br /&gt;
+  &lt;em&gt;Dissertation: Deductive Reasoning in Guarded FO(ID)&lt;br /&gt;
+  Supervisor: Marc Denecker&lt;/em&gt; &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
+  &lt;li&gt;2008: Bridge program Mathematics, University of Leuven &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
+  &lt;li&gt;2006: Licentiate Philosophy, University of Leuven&lt;br /&gt;
+  &lt;em&gt;Dissertation: Wittgenstein en het Ethische&lt;br /&gt;
+  Supervisor: Arnold Burms&lt;/em&gt; &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
+  &lt;li&gt;2004: Kandidatuur Philosophy, University of Antwerp &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
+  &lt;li&gt;2001: European Baccalaurate, European School Mol (Belgium)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;grants-and-fellowships&quot;&gt;Grants and Fellowships&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2016-2017
+    &lt;ul&gt;
+      &lt;li&gt;Research Fellowship, Belgian American Educational Foundation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2012-2015
+    &lt;ul&gt;
+      &lt;li&gt;Ph.D. Grant for Fundamental Research, Flanders Innovation &amp;amp; Entrepreneurship&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;/h3&gt;
+
+&lt;h4 id=&quot;publications&quot;&gt;Publications&lt;/h4&gt;
+
+&lt;p&gt;Beckers, S., and Vennekens, J. (2017). The Transitivity and Asymmetry of Actual Causation, &lt;em&gt;Ergo&lt;/em&gt;, forthcoming.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S. (2017). AAAI: an Argument Against Artificial Intelligence, In &lt;em&gt;Proceedings of the 3rd International Workshop on AI, Ethics and Society&lt;/em&gt;, forthcoming.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., and Vennekens, J. (2016). A Principled Approach to Defining Actual Causation, &lt;em&gt;Synthese&lt;/em&gt;, forthcoming.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., and Vennekens, J. (2016). A General Framework for Defining and Extending Actual Causation using CP-logic, &lt;em&gt;International Journal for Approximate Reasoning&lt;/em&gt;, 77: 105-126.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., and Vennekens, J. (2015). Towards a General Definition of Actual Causation Using CP-logic. In &lt;em&gt;Proceedings of the 2nd International Workshop on Probabilistic Logic Programming co-located with ICLP, volume 1413 of CEUR Workshop Proceedings&lt;/em&gt;, 19–38.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., and Vennekens, J. (2015). Combining Probabilistic, Normative, and Causal Reasoning in CP-logic, In &lt;em&gt;Proceedings of the 12th International Symposium on Logical Formalizations of Commonsense Reasoning&lt;/em&gt;, 32-38.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., and Vennekens, J. (2012). Counterfactual Dependency and Actual Causation in CP-logic and Structural Models: a Comparison. In &lt;em&gt;Proceedings of the Sixth STAIRS, volume 241 of Frontiers in Artificial Intelligence and Applications&lt;/em&gt;, 35–46.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., De Samblanx, G., De Smedt, F., Goedemé, T., Struyf, L., and Vennekens, J. (2012). Parallel hybrid SAT solving using OpenCL. In &lt;em&gt;Proceedings of Benelux Conference on Artificial Intelligence&lt;/em&gt;, 11-18.&lt;/p&gt;
+
+&lt;p&gt;Beckers, S., De Samblanx, G., De Smedt, F., Goedemé, T., Struyf, L., and Vennekens, J. (2011). Parallel SAT-solving with OpenCL. In &lt;em&gt;Proceedings of the IADIS International Conference on Applied Computing&lt;/em&gt;, 435-441.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;talks&quot;&gt;Talks&lt;/h4&gt;
+
+&lt;p&gt;2016  ‘The Transitivity and Asymmetry of Actual Causation’, Philosophy of Science in a Forest, Doorn, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2015  ‘A Principled Approach to Defining Actual Causation’, Conference of Logic, Methodology and Philosophy of Science, Helsinki, Finland&lt;/p&gt;
+
+&lt;p&gt;2015  ‘A Principled Approach to Defining Actual Causation’, Invited talk, Tilburg Center for Logic, Ethics, and Philosophy of Science, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2015  ‘The Problem of Actual Causation’, Epistemology Reading Group, Department of Linguistics and Philosophy, MIT&lt;/p&gt;
+
+&lt;p&gt;2015  ‘Combining Probabilistic, Causal, and Normative Reasoning using CP-logic’, AAAI Spring Symposium: Commonsense Reasoning, Stanford University&lt;/p&gt;
+
+&lt;p&gt;2014  ‘Actual Causation using CP-logic’, Declarative Languages and AI seminar, University of Leuven, Belgium&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation using CP-logic’, colloquium, Munich Center for Mathematical Philosophy&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Dual Inheritance Theory as an Integration of Biology and the Humanities’, Reduction and Emergence in the Sciences conference, Munich Center for Mathematical Philosophy&lt;/p&gt;
+
+&lt;p&gt;2013  ‘A Pragmatic Approach to Causality’, OZSW conference, University of Rotterdam&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation: the CP-logic Approach’, Invited talk, INRIA, Grenoble, France&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation in Cases of Preemption: the CP-logic Approach’, Graduate Conference in Theoretical Philosophy, University of Groningen, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2013  ‘Actual Causation in Cases of Preemption: the CP-logic Approach’, Center for Logic and Analytic Philosophy colloquium, University of Leuven, Belgium&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Actual Causation in Cases of Preemption: the CP-logic Approach’, Great Plains Graduate Conference in Philosophy, Kansas University&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Counterfactual Dependency and Actual Causation in CP-logic and Structural Models: a Comparison’, STAIRS conference, Montpellier, France&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Parallel hybrid SAT solving using OpenCL’, BNAIC, Maastricht University, the Netherlands&lt;/p&gt;
+
+&lt;p&gt;2012  ‘Parallel hybrid SAT solving using OpenCL’, Declarative Languages and AI seminar, University of Leuven, Belgium&lt;/p&gt;
+
+&lt;p&gt;2011  ‘Parallel SAT-solving with OpenCL’, IADIS, Rio de Janeiro, Brazil&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;teaching&quot;&gt;Teaching&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Undergraduate program Civil Engineering, exercise classes:
+    &lt;ul&gt;
+      &lt;li&gt;2014-2015 Introduction to Programming: Python&lt;/li&gt;
+      &lt;li&gt;2012-2013 Introduction to Programming: Java&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Undergraduate program Industrial Engineering, exercise classes:
+    &lt;ul&gt;
+      &lt;li&gt;2015: Introduction to the IDP knowledge base system&lt;/li&gt;
+      &lt;li&gt;2014-2015 Introduction to Programming: Python&lt;/li&gt;
+      &lt;li&gt;2010-2013 Introduction to Programming: C&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
  </entry>
