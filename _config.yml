@@ -13,7 +13,7 @@ url:                 https://sanderbeckers.github.io
 # i.e. `http://<username>.github.io`
 baseurl:             /website
 
-title:               Sander Beckers
+title:               Sander
 
 # Pagination
 paginate:            5
