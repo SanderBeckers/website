@@ -7,11 +7,11 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://sanderbeckers.com
+url:                 https://sanderbeckers.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             
+baseurl:             /website
 
 title:               Sander Beckers
 
@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [articles, talks, cv]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /sander/background4.jpg
+image:               /website/sander/background4.jpg
 color:               '#A85641'
 
 # Fonts
