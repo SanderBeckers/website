@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [articles, talks, cv]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /website/sander/background4.jpg
+image:               /sander/background4.jpg
 color:               '#A85641'
 
 # Fonts
