@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://sanderbeckers.com
+url:                 https://github.sanderbeckers.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [articles, talks, cv]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /website/public/img/nap.jpg
+image:               /website/sander/background4.jpg
 color:               '#A85641'
 
 # Fonts
@@ -45,8 +45,8 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Welcome to my personal webpage. Testing out how this works. For example, here's a link to my
-    [ResearchGate profile](https://www.researchgate.net/profile/Sander_Beckers).
+    Welcome to my personal webpage, and thanks for taking the time to pay it a visit. If you are interested in my work, then do not hesitate to send me an e-mail at <a href="mailto:Sander.Beckers@cornell.edu?Subject=Job%20Offer%20from%20[Fill%20in%20your%20prestigious%20university]" target="_top">Sander.Beckers@cornell.edu</a>. 
+    
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
