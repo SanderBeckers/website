@@ -4,7 +4,7 @@
  <title>Sander Beckers</title>
  <link href="http://localhost:4000/website/atom.xml" rel="self"/>
  <link href="http://localhost:4000/website/"/>
- <updated>2016-12-25T02:29:54-05:00</updated>
+ <updated>2016-12-25T15:12:45-05:00</updated>
  <id>http://localhost:4000/website</id>
  <author>
    <name>Sander Beckers</name>
@@ -62,17 +62,17 @@
 
 &lt;h3 id=&quot;old-stuff&quot;&gt;Old Stuff&lt;/h3&gt;
 
-&lt;p&gt;These are papers and dissertations which I wrote as a student, hence they might not be worth spending much (if any) time on.&lt;/p&gt;
+&lt;p&gt;These are some of the papers and dissertations which I wrote as a student, hence they might not be worth spending much (if any) time on.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/masterthesismathematics.pdf&quot;&gt;Beckers, S. (2011). Deductive Reasoning in Guarded FO(ID), Master Thesis Mathematics&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/choosenaturalnumber.pdf&quot;&gt;Beckers, S. (2006). How to Choose a Natural Number at Random&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/choosenaturalnumber.pdf&quot;&gt;Beckers, S. (2006). How to Choose a Natural Number at Random.&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/masterthesisphilosophy.pdf&quot;&gt;Beckers, S. (2006). Wittgenstein en het Ethische, Master Thesis Philosophy&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/masterthesisphilosophy.pdf&quot;&gt;Beckers, S. (2006). Wittgenstein en het Ethische, Master Thesis Philosophy.&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/endofpoverty.pdf&quot;&gt;Beckers, S. (2005). Why We Don’t End Poverty.&lt;/a&gt;&lt;/p&gt;
