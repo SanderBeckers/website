@@ -13,7 +13,7 @@
 
 articles:
   name: Articles
-  image: /website/sander/background6.jpg
+  image: /website/sander/background66.jpg
   color: '#949667'
   description: >
 
@@ -21,7 +21,7 @@ articles:
 
 talks:
   name: Talks
-  image: /website/sander/background3.jpg
+  image: /website/sander/background33.jpg
   color: '#949667'
   description: >
 
@@ -29,7 +29,7 @@ talks:
 
 cv:
   name: CV
-  image: /website/sander/background1.jpg
+  image: /website/sander/background11.jpg
   color: '#949667'
   description: >
 
