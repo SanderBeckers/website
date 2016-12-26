@@ -44,7 +44,7 @@ author:
   #photo2x:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  about:             
     Welcome to my personal webpage, and thanks for taking the time to pay it a visit. I am currently a visiting postdoctoral research fellow at the Cornell University Department of Computer Science. |
 	
 	I have a background in philosophy, mathematics, and Artificial Intelligence, and for the past five years I have been working across the boundary between philosophy of science and Artificial Intelligence. Before coming to Cornell, I wrote a PhD on the topic of Actual Causation at the University of Leuven, Department of Computer Science. My current research extends the work on causation into formal ethics. Concretely, I am now working on formalising definitions of responsibility, intention, and blameworthiness, taking formal definitions of causation as my starting point. |
