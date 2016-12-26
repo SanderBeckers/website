@@ -44,11 +44,10 @@ author:
   #photo2x:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  about:             
 	  Welcome to my personal webpage, and thanks for taking the time to pay it a visit. I am currently a visiting postdoctoral research fellow at the Cornell University Department of Computer Science. 
 
-      Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
-
+     
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
