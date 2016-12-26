@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sander Beckers</title>
+ <title>Sander</title>
  <link href="http://localhost:4000/website/atom.xml" rel="self"/>
  <link href="http://localhost:4000/website/"/>
- <updated>2016-12-25T23:06:02-05:00</updated>
+ <updated>2016-12-26T00:48:59-05:00</updated>
  <id>http://localhost:4000/website</id>
  <author>
    <name>Sander Beckers</name>
@@ -205,12 +205,12 @@ Ithaca, NY 14853&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;2011: Master in Mathematics, University of Leuven&lt;br /&gt;
   &lt;em&gt;Dissertation: Deductive Reasoning in Guarded FO(ID)&lt;br /&gt;
-  Supervisor: Marc Denecker&lt;/em&gt; &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
-  &lt;li&gt;2008: Bridge program Mathematics, University of Leuven &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
+  Supervisor: Marc Denecker&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2008: Bridge program Mathematics, University of Leuven&lt;/li&gt;
   &lt;li&gt;2006: Licentiate Philosophy, University of Leuven&lt;br /&gt;
   &lt;em&gt;Dissertation: Wittgenstein en het Ethische&lt;br /&gt;
-  Supervisor: Arnold Burms&lt;/em&gt; &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
-  &lt;li&gt;2004: Kandidatuur Philosophy, University of Antwerp &amp;lt;p&amp;gt;   &amp;lt;/p&amp;gt;&lt;/li&gt;
+  Supervisor: Arnold Burms&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2004: Kandidatuur Philosophy, University of Antwerp&lt;/li&gt;
   &lt;li&gt;2001: European Baccalaurate, European School Mol (Belgium)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -221,12 +221,12 @@ Ithaca, NY 14853&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;2016-2017
     &lt;ul&gt;
-      &lt;li&gt;Research Fellowship, Belgian American Educational Foundation&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.baef.be&quot;&gt;Research Fellowship, Belgian American Educational Foundation&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;2012-2015
     &lt;ul&gt;
-      &lt;li&gt;Ph.D. Grant for Fundamental Research, Flanders Innovation &amp;amp; Entrepreneurship&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.fwo.be/en/fellowships-funding/phd-fellowships/doctoral-(phd)-grant-strategic-basic-research-(sb)/&quot;&gt;Ph.D. Grant for Fundamental Research, Flanders Innovation &amp;amp; Entrepreneurship&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
