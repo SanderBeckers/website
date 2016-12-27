@@ -4,7 +4,7 @@
  <title>Sander</title>
  <link href="http://localhost:4000/website/atom.xml" rel="self"/>
  <link href="http://localhost:4000/website/"/>
- <updated>2016-12-26T00:48:59-05:00</updated>
+ <updated>2016-12-27T13:39:50-05:00</updated>
  <id>http://localhost:4000/website</id>
  <author>
    <name>Sander Beckers</name>
@@ -23,8 +23,8 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/website/sander/articles/aiethicssociety_aaai.pdf&quot;&gt;Beckers, S. (2017). AAAI: an Argument Against Artificial Intelligence, In &lt;em&gt;Proceedings of the 3rd International Workshop on AI, Ethics and Society&lt;/em&gt;, forthcoming.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/synthese principled.pdf&quot;&gt;Beckers, S., and Vennekens, J. (2016). A Principled Approach to Defining Actual Causation, &lt;em&gt;Synthese&lt;/em&gt;, forthcoming.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/ijar_cplogic.pdf&quot;&gt;Beckers, S., and Vennekens, J. (2016). A General Framework for Defining and Extending Actual Causation using CP-logic, &lt;em&gt;International Journal for Approximate Reasoning&lt;/em&gt;, 77: 105-126.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/synthese principled.pdf&quot;&gt;Beckers, S., and Vennekens, J. (2016). A Principled Approach to Defining Actual Causation, &lt;em&gt;Synthese&lt;/em&gt;, forthcoming.&lt;/a&gt; &lt;a href=&quot;http://link.springer.com/article/10.1007/s11229-016-1247-1&quot;&gt;Click here for official version&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/website/sander/articles/ijar_cplogic.pdf&quot;&gt;Beckers, S., and Vennekens, J. (2016). A General Framework for Defining and Extending Actual Causation using CP-logic, &lt;em&gt;International Journal for Approximate Reasoning&lt;/em&gt;, 77: 105-126.&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0888613X16300779&quot;&gt;Click here for official version&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Beckers, S., and Vennekens, J. (2015). Towards a General Definition of Actual Causation Using CP-logic. In &lt;em&gt;Proceedings of the 2nd International Workshop on Probabilistic Logic Programming co-located with ICLP, volume 1413 of CEUR Workshop Proceedings&lt;/em&gt;, 19–38.&lt;/li&gt;
   &lt;li&gt;Beckers, S., and Vennekens, J. (2015). Combining Probabilistic, Normative, and Causal Reasoning in CP-logic, In &lt;em&gt;Proceedings of the 12th International Symposium on Logical Formalizations of Commonsense Reasoning&lt;/em&gt;, 32-38.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/website/sander/articles/Stairs_officialversion.pdf&quot;&gt;Beckers, S., and Vennekens, J. (2012). Counterfactual Dependency and Actual Causation in CP-logic and Structural Models: a Comparison. In &lt;em&gt;Proceedings of the Sixth STAIRS, volume 241 of Frontiers in Artificial Intelligence and Applications&lt;/em&gt;, 35–46.&lt;/a&gt;&lt;/li&gt;
@@ -51,7 +51,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/frankfurt_v2.pdf&quot;&gt;Beckers, S. (2016). A Formal Approach to the Frankfurt Cases&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/frankfurt_v2.pdf&quot;&gt;Beckers, S. (2016). A Formal Approach to the Frankfurt Cases.&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/website/sander/articles/hardestlogicpuzzle.pdf&quot;&gt;Beckers, S. (2013). All Solutions to the Hardest Logic Puzzle Ever.&lt;/a&gt;&lt;/p&gt;
@@ -66,7 +66,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/masterthesismathematics.pdf&quot;&gt;Beckers, S. (2011). Deductive Reasoning in Guarded FO(ID), Master Thesis Mathematics&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/masterthesismathematics.pdf&quot;&gt;Beckers, S. (2011). Deductive Reasoning in Guarded FO(ID), Master Thesis Mathematics.&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/website/sander/articles/old/choosenaturalnumber.pdf&quot;&gt;Beckers, S. (2006). How to Choose a Natural Number at Random.&lt;/a&gt;&lt;/p&gt;
@@ -181,7 +181,8 @@ Ithaca, NY 14853&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;2010-2011
     &lt;ul&gt;
-      &lt;li&gt;Researcher at University of Leuven, EAVISE research group       			    &lt;em&gt;Project: S.O.S. OpenCL: Multicore Cooking&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Researcher at University of Leuven, EAVISE research group  &lt;br /&gt;
+  &lt;a href=&quot;http://www.eavise.be/projects.php#sos_opencl&quot;&gt;&lt;em&gt;Project: S.O.S. OpenCL: Multicore Cooking&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;2008-2009
