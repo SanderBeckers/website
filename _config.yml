@@ -45,7 +45,8 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-   Welcome to my personal webpage, and thanks for taking the time to have a look! I am currently a postdoctoral member of the [Cluster of Excellence in Machine Learning, at the University of Tübingen](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/epistemology-and-ethics-of-ml/). 
+   Welcome to my personal webpage, and thanks for taking the time to have a look! I am currently a postdoctoral researcher at [the Institute for Logic, Language and Computation, University of Amsterdam](https://www.illc.uva.nl/).
+   
    Here I continue my work on a wide variety of topics involving causation and causal modeling. Roughly, my existing work can be grouped into three categories. 
    
    First, I use causal models to construct and discuss formal definitions of actual causation and their properties. Instead of only looking at how well such definitions match up with alleged intuitions about causation, I aim to justify my definitions in a more systematic and principled way. 
